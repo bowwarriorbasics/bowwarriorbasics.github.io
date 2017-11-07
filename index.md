@@ -21,7 +21,7 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 - Course Guide
     - Comments on good/bad parts of course
     - "What You Need" / "What You'll Learn"
-    - FOrum attached to each course, with posts marked by semester and week
+    - Forum attached to each course, with posts marked by semester and week
 - "Blog" Posts
     - User-created
     - Tag keywords or courses
