@@ -14,7 +14,7 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 
 - Login/account system for personalized accounts
 
-<img class="ui medium left floated image" src="bwb.JPG">
+<img class="ui medium left floated image" src="bw.PNG">
 
 <img class="ui medium left floated image" src="profile.png">
 
