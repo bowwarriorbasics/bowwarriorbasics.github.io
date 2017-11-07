@@ -29,6 +29,7 @@ down, or banned by administrators if innappropriate.
         - Major
         - Clubs and organizations
     - "About Me" personal statement section
+<img class="ui medium left floated image" src="bowwarriorbasicsprofile.png">
 
 - Topic directory page
     - CRUD functionality
