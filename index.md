@@ -16,7 +16,7 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 
 <img class="ui medium left floated image" src="bwb.JPG">
 
-<img class="ui medium left floated image" src="bowwarriorbasicsprofile.png">
+<img class="ui medium left floated image" src="profile.png">
 
 - Course Guide
     - Comments on good/bad parts of course
