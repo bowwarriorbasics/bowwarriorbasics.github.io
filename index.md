@@ -19,6 +19,7 @@ down, or banned by administrators if innappropriate.
 ## Tentative Features
 
 - Login/account system for personalized accounts
+<img class="ui medium left floated image" src="bwb.JPG">
 
 - Personal profile page
     - Circular profile image
