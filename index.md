@@ -8,7 +8,7 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 
 ## The Solution
 
-**ThinkUH** is a crowd-sourced information source for your academic courses and your community. Join and learn from fellow students about what your future is really like, and what is presently going on!
+[**ThinkUH**](https://thinkuh.meteorapp.com/) is a crowd-sourced information source for your academic courses and your community. Join and learn from fellow students about what your future is really like, and what is presently going on!
 
 ## Tentative Features
 
