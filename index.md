@@ -31,4 +31,8 @@ As a student on campus, wouldn't you like to know about the good and bad of each
     - Events (e.g. events, job/internship posting or visits)
     - Commenting system
 
- 
+## Milestones
+
+[Milestone 1](https://github.com/thinkuh/thinkuh/projects/1)
+
+[Milestone 2](https://github.com/thinkuh/thinkuh/projects/2)
