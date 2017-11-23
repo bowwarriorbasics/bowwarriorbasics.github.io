@@ -14,9 +14,15 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 
 - Login/account system for personalized accounts
 
-<img class="ui medium left floated image" src="bwb.PNG">
+[<img class="ui medium left floated image" src="landing.png">](https://thinkuh.meteorapp.com/)
 
-<img class="ui medium left floated image" src="profile.png">
+[<img class="ui medium left floated image" src="profile.png">](https://thinkuh.meteorapp.com/johnson/profile)
+
+[<img class="ui medium left floated image" src="major.png">](https://thinkuh.meteorapp.com/johnson/ICS/home)
+
+[<img class="ui medium left floated image" src="course-diagram.png">](https://thinkuh.meteorapp.com/johnson/ICS/class)
+
+[<img class="ui medium left floated image" src="filter.png">](https://thinkuh.meteorapp.com/johnson/filter)
 
 - Course Guide
     - Comments on good/bad parts of course
