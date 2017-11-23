@@ -16,6 +16,8 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 
 [<img class="ui medium left floated image" src="landing.png">](https://thinkuh.meteorapp.com/)
 
+The below links have usernames in the url (johnson by default), please log in through the landing page first, then change 'johnson' to your own username.
+
 [<img class="ui medium left floated image" src="profile.png">](https://thinkuh.meteorapp.com/johnson/profile)
 
 [<img class="ui medium left floated image" src="major.png">](https://thinkuh.meteorapp.com/johnson/ICS/home)
