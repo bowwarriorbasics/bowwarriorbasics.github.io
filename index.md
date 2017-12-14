@@ -37,7 +37,7 @@ On the course page, you will see more detailed information for each course.  You
 
 The filter page lets you see the profiles of other people in your major, or of any major you should choose.  This way you can see who will be teaching what course, and their attributes and interests.
 
-<img class="ui medium left floated image" src="thinkuh-filter.PNG">
+<img class="ui medium left floated image" src="thinkuh-filter-page.PNG">
 
 Events shows what events are comimg up in the community, allowing you to stay 
 ontop of your school life.  There is also a calendar should anyone in the ICS 
