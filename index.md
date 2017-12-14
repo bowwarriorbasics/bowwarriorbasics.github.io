@@ -22,7 +22,7 @@ From there, you will be redirected to your profile page.  Here you can fill in s
 
 <img class="ui medium left floated image" src="profile.png">
 
-From the 'Departments' menu, you can navigate to the pages for individual majors, here you will be able to interact on the major's forum, or go to the list of classes for the major.
+From the 'Departments' menu, you can navigate to the pages for individual majors, here you will be able to interact on the major's forum, or see a list of classes you will need to take in the future.
 
 <img class="ui medium left floated image" src="major.png">
 
@@ -34,7 +34,7 @@ The filter page lets you see the profiles of other people in your major, or of a
 
 <img class="ui medium left floated image" src="filter.png">
 
-Events shows what events are comimg up in the community, allowing you to stay on top of your school life.
+Events shows what events are comimg up in the community, allowing you to stay on top of your school life.  There is also a calendar should anyone in the ICS community need to schedule important events.
 
 ## Community Feedback
 
