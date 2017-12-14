@@ -21,29 +21,33 @@ students about what your future is really like, and what is presently going on!
 
 From the landing page, you can see a preview of what is on the site after you login using your UH ID to your personal account.
 
-<img class="ui medium left floated image" src="thinkuh-landing.PNG">
+<img class="ui medium left floated image" src="landing.png">
 
 From there, you will be redirected to your profile page.  Here you can fill in some basic information about yourself so you can be more easily identified on your posts.  This includes your name, major, profile image of yourself, etc.
 
-<img class="ui medium left floated image" src="thinkuh-profile.PNG">
+<img class="ui medium left floated image" src="profile.png">
 
 From the 'Departments' menu, you can navigate to the pages for individual majors, where you will be able to interact on the major's forum, or see a list of classes you will need to take in the future.
 
-<img class="ui medium left floated image" src="thinkuh-major-forum.PNG">
+<img class="ui medium left floated image" src="major.png">
 
-On the course page, you will see more detailed information for each course.  You can interact on the course's forum, or read through helpful tips for the class.  You can also give tips if you have previously taken the course.
+On the course page, you will see more detailed information for each course.  You can interact on the course's forum, or read through helpful tips for the class.
+
+<img class="ui medium left floated image" src="course.png">
+
+You can also give tips if you have previously taken the course.
 
 <img class="ui medium left floated image" src="thinkuh-course-tips.PNG">
 
 The filter page lets you see the profiles of other people in your major, or of any major you should choose.  This way you can see who will be teaching what course, and their attributes and interests.
 
-<img class="ui medium left floated image" src="thinkuh-filter-page.PNG">
+<img class="ui medium left floated image" src="filter.png">
 
 Events shows what events are comimg up in the community, allowing you to stay 
 ontop of your school life.  There is also a calendar should anyone in the ICS 
 community need to schedule important events.
 
-<img class="ui medium left floated image" src="thinkuh-event.PNG">
+<img class="ui medium left floated image" src="event.png">
 
 ## Community Feedback
 
