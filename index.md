@@ -14,23 +14,23 @@ As a student on campus, wouldn't you like to know about the good and bad of each
 
 ## User Guide
 
-From the landing page, login using your UH ID to your personal account
+From the landing page, you can see a preview of what is on the site after you login using your UH ID to your personal account.
 
 <img class="ui medium left floated image" src="landing.png">
 
-From there, you will be redirected to your profile page.  Here you can fill in some basic information about yourself so you can be more easily identified on your posts.
+From there, you will be redirected to your profile page.  Here you can fill in some basic information about yourself so you can be more easily identified on your posts.  This includes your name, major, profile image of yourself, etc.
 
 <img class="ui medium left floated image" src="profile.png">
 
-From the 'Departments' menu, you can navigate to the pages for individual majors, here you will be able to interact on the major's forum, or see a list of classes you will need to take in the future.
+From the 'Departments' menu, you can navigate to the pages for individual majors, where you will be able to interact on the major's forum, or see a list of classes you will need to take in the future.
 
 <img class="ui medium left floated image" src="major.png">
 
-On the course page, you will see more detailed information for the course.  You can interact on the course's forum, or read through helpful tips for the class.
+On the course page, you will see more detailed information for each course.  You can interact on the course's forum, or read through helpful tips for the class.  You can also give tips if you have previously taken the course.
 
 <img class="ui medium left floated image" src="course-diagram.png">
 
-The filter page lets you see the profiles of other people in your major, or of any major you should choose.
+The filter page lets you see the profiles of other people in your major, or of any major you should choose.  This way you can see who will be teaching what course, and their attributes and interests.
 
 <img class="ui medium left floated image" src="filter.png">
 
