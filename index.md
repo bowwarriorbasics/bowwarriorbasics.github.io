@@ -6,11 +6,16 @@
 
 ### The Problem
 
-As a student on campus, wouldn't you like to know about the good and bad of each course? How about knowing what parts *really* gave people trouble? Or how about hearing voices from other students commenting on each course? Or how about hearing about the different clubs and events going on at campus?
+As a student on campus, wouldn't you like to know about the good and bad of each 
+course? How about knowing what parts *really* gave people trouble? Or how about 
+hearing voices from other students commenting on each course? Or how about 
+hearing about the different clubs and events going on at campus?
 
 ### The Solution
 
-[**ThinkUH**](https://thinkuh.meteorapp.com/) is a crowd-sourced information source for your academic courses and your community. Join and learn from fellow students about what your future is really like, and what is presently going on!
+[**ThinkUH**](https://thinkuh.meteorapp.com/) is a crowd-sourced information 
+source for your academic courses and your community. Join and learn from fellow 
+students about what your future is really like, and what is presently going on!
 
 ## User Guide
 
@@ -34,21 +39,32 @@ The filter page lets you see the profiles of other people in your major, or of a
 
 <img class="ui medium left floated image" src="filter.png">
 
-Events shows what events are comimg up in the community, allowing you to stay on top of your school life.  There is also a calendar should anyone in the ICS community need to schedule important events.
+Events shows what events are comimg up in the community, allowing you to stay 
+ontop of your school life.  There is also a calendar should anyone in the ICS 
+community need to schedule important events.
 
 <img class="ui medium left floated image" src="profile.png">
 
 ## Community Feedback
 
-To test out our project, we had three adults and two people around our age try out the program. Most of them agreed that the site was pretty simple to navigate using the tabs on the top menu bar. It was good that after they logged in it would lead them directly to making their profile. They also said this would be very useful when learning about new classes and adding events to the calendar. To improve, one adult said we could add a page for contact info, or a way to email the administrators of this website if they ran into any issues or had any questions.
+To test out our project, we had five adults try out the program. Most of them 
+agreed that the site was pretty simple to navigate using the tabs on the top 
+menu bar.  It was good that after they logged in it would lead them directly to 
+making their profile. They also said this would be very useful when learning 
+about new classes and adding events to the calendar. To improve, one adult said 
+we could add a page for contact info, or a way to email the administrators of 
+this website if they ran into any issues or had any questions.
 
 ## Developer Guide
 
 First, [install Meteor](https://www.meteor.com/install).
 
-You will then need to download [the latest version of ThinkUH](https://github.com/thinkuh/thinkuh/tree/master), or fork the repository and clone it to your desktop via git.
+You will then need to download [the latest version of 
+ThinkUH](https://github.com/thinkuh/thinkuh/tree/master), or fork the repository 
+and clone it to your desktop via git.
 
-That done, open the command line in the `app/` directory of the repository.  Type the command `meteor npm install`.
+That done, open the command line in the `app/` directory of the repository. Type 
+the command `meteor npm install`.
 
 To run the program, use the command `meteor npm run start`.
 
