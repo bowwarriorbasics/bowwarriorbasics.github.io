@@ -28,7 +28,7 @@ From the 'Departments' menu, you can navigate to the pages for individual majors
 
 On the course page, you will see more detailed information for each course.  You can interact on the course's forum, or read through helpful tips for the class.  You can also give tips if you have previously taken the course.
 
-<img class="ui medium left floated image" src="course-diagram.png">
+<img class="ui medium left floated image" src="profile.png">
 
 The filter page lets you see the profiles of other people in your major, or of any major you should choose.  This way you can see who will be teaching what course, and their attributes and interests.
 
