@@ -36,6 +36,8 @@ The filter page lets you see the profiles of other people in your major, or of a
 
 Events shows what events are comimg up in the community, allowing you to stay on top of your school life.  There is also a calendar should anyone in the ICS community need to schedule important events.
 
+<img class="ui medium left floated image" src="profile.png">
+
 ## Community Feedback
 
 To test out our project, we had three adults and two people around our age try out the program. Most of them agreed that the site was pretty simple to navigate using the tabs on the top menu bar. It was good that after they logged in it would lead them directly to making their profile. They also said this would be very useful when learning about new classes and adding events to the calendar. To improve, one adult said we could add a page for contact info, or a way to email the administrators of this website if they ran into any issues or had any questions.
