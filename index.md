@@ -43,8 +43,8 @@ The filter page lets you see the profiles of other people in your major, or of a
 
 <img class="ui medium left floated image" src="filter.png">
 
-Events shows what events are comimg up in the community, allowing you to stay 
-ontop of your school life.  There is also a calendar should anyone in the ICS 
+Events shows what events are coming up in the community, allowing you to stay 
+on top of your school life.  There is also a calendar should anyone in the ICS 
 community need to schedule important events.
 
 <img class="ui medium left floated image" src="event.png">
